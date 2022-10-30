@@ -1,7 +1,7 @@
 <!-- ![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
  -->
  
- <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+ <p align="center"><img width="30%" src="https://uploads-ssl.webflow.com/5e7fdcf5a1676d7d9ab4c4a2/5e9cccd31ceb3effbf619901_8d98da_33b1a909a9dc41389178d3e348c9c09d_mv2.gif" alt="lang image here" /></p>
 
 <p align="center">I'm Tashvik, a programmer, student and an entrepreneur.</p>
 
