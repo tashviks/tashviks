@@ -1,7 +1,7 @@
 <!-- ![]()
  -->
  
-<!--  <p align="center"><img width="30%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" /></p> -->
+ <p align="center"><img width="30%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" /></p>
 
 <p align="center">I'm Tashvik, a programmer, student and an entrepreneur.</p>
 
