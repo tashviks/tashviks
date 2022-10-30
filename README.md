@@ -1,7 +1,11 @@
 <!-- ![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
  -->
  
- <p align="center"><video width="30%" src="https://www.youtube.com/watch?v=Nrzo_iS-GGA&ab_channel=SETIndia" alt="lang image here" /></p>
+<!--  <p align="center"><video width="30%" src="https://www.youtube.com/watch?v=Nrzo_iS-GGA&ab_channel=SETIndia" alt="lang image here" /></p> -->
+
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=Nrzo_iS-GGA&ab_channel=SETIndia" type="video/mp4">
+</video>
 
 <p align="center">I'm Tashvik, a programmer, student and an entrepreneur.</p>
 
