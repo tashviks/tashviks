@@ -23,5 +23,6 @@
 <img align = "left" width="20" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png">
 
 <br/>
-## How to reach me?
+
+<h2> ## How to reach me? </h2>
 ✉ : tashviksrivastava@gmail.com
