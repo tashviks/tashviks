@@ -13,21 +13,14 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCRLHJ-7b4pjDpBBHAUXEvjQ?style=for-the-badge" />
   </a>
 </p> -->
-
-<br/>
-
 ## I am a 2025 undergrad
 * Currently learning Data Structures and Algorithims
 * Open to Colaborate
-
-<br/>
 
 ## My Links
 * <img align = "left" width="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">**https://www.linkedin.com/in/tashvik-srivastava-169618210/**
 * <img align = "left" width="20" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png">**https://codeforces.com/profile/tsvk**
 * <img align = "left" width="20" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png">**https://www.codechef.com/users/tashvik**
-
-<br/>
 
 ## Skills
 <img align = "left" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
@@ -36,8 +29,6 @@
 <img align = "left" width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1">
 <img align = "left" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 <img align = "left" width="20" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png">
-
-<br/>
 
 ## How to reach me? 
 ✉ : tashviksrivastava@gmail.com
