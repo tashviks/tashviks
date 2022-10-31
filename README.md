@@ -24,5 +24,5 @@
 
 <br/>
 
-<h2> ## How to reach me? </h2>
+## How to reach me? 
 ✉ : tashviksrivastava@gmail.com
