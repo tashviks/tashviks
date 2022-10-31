@@ -3,7 +3,7 @@
  
  <p align="center"><img width="30%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" /></p>
 
-<p align="center">I'm Tashvik, a programmer, student and an entrepreneur.</p>
+<p align="center">Hi , I'm Tashvik, a programmer, student and an entrepreneur.</p>
 
 <!-- <p align="center">
   <a href="https://github.com/conaticus?tab=followers">
@@ -13,6 +13,15 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCRLHJ-7b4pjDpBBHAUXEvjQ?style=for-the-badge" />
   </a>
 </p> -->
+
+## I am a 2025 undergrad
+* Currently learning Data Structures and Algorithims
+* Open to Colaborate
+
+## My Links
+* Linkedin **https://www.linkedin.com/in/tashvik-srivastava-169618210/**
+* <img align = "left" width="20" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png">Codeforces **https://codeforces.com/profile/tsvk**
+* Codechef **https://www.codechef.com/users/tashvik**
 
 ## Skills
 <img align = "left" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
