@@ -3,7 +3,7 @@
  
  <p align="center"><img width="30%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" /></p>
 
-<p align="center">Hi , I'm Tashvik, a programmer, student and an entrepreneur.</p>
+<marquee><p align="center">Hi , I'm Tashvik, a programmer, student and an entrepreneur.</p></marquee>
 
 <!-- <p align="center">
   <a href="https://github.com/conaticus?tab=followers">
