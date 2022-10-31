@@ -19,9 +19,9 @@
 * Open to Colaborate
 
 ## My Links
-* <img align = "left" width="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> Linkedin **https://www.linkedin.com/in/tashvik-srivastava-169618210/**
+* <img align = "left" width="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">**https://www.linkedin.com/in/tashvik-srivastava-169618210/**
 * <img align = "left" width="20" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png">**https://codeforces.com/profile/tsvk**
-* <img align = "left" width="20" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png"> Codechef **https://www.codechef.com/users/tashvik**
+* <img align = "left" width="20" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png">**https://www.codechef.com/users/tashvik**
 
 <br/>
 
