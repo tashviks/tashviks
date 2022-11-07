@@ -15,7 +15,7 @@
 </p> -->
 ## I am a 2025 undergrad
 * Currently learning Data Structures and Algorithims
-* Open to Colaborate
+* Open to Collaborate
 
 ## My Links
 * <img align = "left" width="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">**https://www.linkedin.com/in/tashvik-srivastava-169618210/**
