@@ -33,5 +33,13 @@
 
 <br/>
 
+
 ## How to reach me? 
 ✉ : tashviksrivastava@gmail.com
+
+<br/>
+
+
+<div>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=tashviks)]
+ </div>
