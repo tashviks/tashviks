@@ -39,7 +39,4 @@
 
 <br/>
 
-
-<div>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=tashviks)]
- </div>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tashviks&theme=dark&mode=weekly&border=008D39)](https://git.io/streak-stats)
