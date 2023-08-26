@@ -30,6 +30,7 @@
 <img align = "left" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 <img align = "left" width="20" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png">
 <img align = "left" width="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png">
+<img align = "left" width="20" src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass.png">
 
 <br/>
 
