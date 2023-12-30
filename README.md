@@ -5,6 +5,7 @@
 
 <marquee><p align="center">Hi , I'm Tashvik, a programmer, student and an entrepreneur.</p></marquee>
 
+![](https://komarev.com/ghpvc/?username=tashviks&color=green)
 <!-- <p align="center">
   <a href="https://github.com/conaticus?tab=followers">
     <img src="https://img.shields.io/github/followers/conaticus?style=for-the-badge" alt="GitHub badge" />
