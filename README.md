@@ -34,7 +34,11 @@
 <div align="center">
   <h2>🏋🏻 My Contributions 🏋🏻</h2>
   <br>
-  <img alt="snake eating my contributions" src="./github-user-contribution.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tashviks/tashviks/output/github-user-contribution-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tashviks/tashviks/output/github-user-contribution.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tashviks/tashviks/output/github-user-contribution.svg" />
+  </picture>
   
   <br/><br/>
 </div>
