@@ -99,6 +99,27 @@ func main() {
 
 ---
 
+## 💸 Shipping at Linkrunner — Wallet & Billing
+
+Prepaid wallet + bank-transfer recharge flow I work on: usage metering against a free-install
+allowance, wallet balance that auto-settles monthly invoices, and an invoice ledger.
+
+<div align="center">
+
+<img width="88%" src="./assets/wallet-usage-billing.png" alt="Usage and billing dashboard with prepaid wallet" />
+
+<br/><br/>
+
+<img width="52%" src="./assets/wallet-bank-transfer.png" alt="Add funds to wallet via bank transfer" />
+
+<br/>
+
+<sub><i>Customer and account identifiers redacted. Screens from the Linkrunner dashboard.</i></sub>
+
+</div>
+
+---
+
 ## 📊 Stats That Move
 
 <div align="center">
