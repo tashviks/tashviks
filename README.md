@@ -103,8 +103,8 @@ func main() {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tashviks&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashviks&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0" alt="top langs" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tashviks&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0" alt="stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tashviks&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0" alt="top langs" />
 
 <br/>
 
@@ -112,11 +112,17 @@ func main() {
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tashviks&bg_color=0D1117&color=00E5A0&line=00E5A0&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashviks&theme=github_dark" alt="profile summary" />
 
 <br/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=tashviks&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tashviks&theme=github_dark" alt="repos per language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tashviks&theme=github_dark" alt="most commit language" />
+
+<br/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tashviks&theme=github_dark" alt="stats card" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tashviks&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
 </div>
 
