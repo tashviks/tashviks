@@ -103,8 +103,8 @@ func main() {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tashviks&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0" alt="stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tashviks&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0" alt="top langs" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=tashviks&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0" alt="stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tashviks&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E5A0" alt="top langs" />
 
 <br/>
 
